@@ -1,2 +1,5 @@
-# flutter-tips-and-tricks
-Tips and Tricks for Flutter 👐🏼
+# Tips 💙 Tricks
+
+| ID | GitHub | Datetime                                                                            |
+| --- |---| ---
+| 1 |  |  |
