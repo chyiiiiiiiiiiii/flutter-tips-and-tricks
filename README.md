@@ -5,8 +5,8 @@
 | 1 |  |  |
 
 ## Contribute
-- If you feel good and learn something from tips and tricks, you can star and share to other developers.
-- If you have some idea, please discuss with me or commit PR.
+- You can star and share with other developers if you feel good and learn something from this repository.
+- If you have some ideas, please discuss them with me or commit PR.
 
 ## More of me
 <!-- [![Youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/a22601807/videos) -->
