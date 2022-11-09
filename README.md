@@ -1,8 +1,8 @@
 # Tips 💙 Tricks
 
-| ID | GitHub | Datetime                                                                            |
-| --- |---| ---
-| 1 |  |  |
+| ID | GitHub |
+| --- |---|
+| 1 |  |
 
 ## Contribute
 - You can star and share with other developers if you feel good and learn something from this repository.
