@@ -2,9 +2,11 @@
 
 <img src="./cover.png"/>
 
+## Content
+
 | ID | GitHub |
 | --- |---|
-| 1 |  |
+| 1 | <a href='./tips/0001-use-dart-program-to-allocate-resolution-images/README.md'> Use dart program to allocate resolution images </a><img src='./tips/0001-use-dart-program-to-allocate-resolution-images/demo.png' /> |
 
 ## Contribute
 - You can star and share with other developers if you feel good and learn something from this repository.
