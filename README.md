@@ -6,6 +6,8 @@
 
 | ID | GitHub |
 | --- |---|
+| 3 | <a href='./tips/0003-use-isolate-run-to-deal-with-complicated-tasks/README.md'> Use Isolate.run() to deal with complicated tasks in Dart 2.19 </a><img src='./tips/0003-use-isolate-run-to-deal-with-complicated-tasks/demo.png' /> |
+| 2 | <a href='./tips/0002-access-mounted-property-by-buildcontext/README.md'> Access mounted property by BuildContext in Flutter 3.7 </a><img src='./tips/0002-access-mounted-property-by-buildcontext/demo.png' /> |
 | 1 | <a href='./tips/0001-use-dart-program-to-allocate-resolution-images/README.md'> Use dart program to allocate resolution images </a><img src='./tips/0001-use-dart-program-to-allocate-resolution-images/demo.png' /> |
 
 ## Contribute
